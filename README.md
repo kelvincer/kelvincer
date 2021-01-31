@@ -13,7 +13,7 @@ Actually I am Android Developer in Peru working at a bank.
 - <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 - <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 
-📫 **How to reach me:** [![forthebadge cc-sa](https://img.shields.io/badge/linkedin%20-%230077B5.svg)](https://www.linkedin.com/in/kelvin-lionnel-cervan-ruiz-3559b855)
+📫 **How to reach me:** [![forthebadge cc-sa](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/kelvin-lionnel-cervan-ruiz-3559b855)
 
 
 <!-- Here are some ideas to get you started:
