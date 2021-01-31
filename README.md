@@ -1,11 +1,19 @@
-### Hi there 👋
+## Hi there my name is Kelvin Cervan 👋
 
 <!--
 **kelvincer/kelvincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Actually I am Android Developer in Peru working at a bank.
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kelvin-lionnel-cervan-ruiz-3559b855)
+## **Skills**
+- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+- <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+- <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+- <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+- <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+
+📫 **How to reach me:** [Linkedin](https://www.linkedin.com/in/kelvin-lionnel-cervan-ruiz-3559b855)
 
 <!-- Here are some ideas to get you started:
 
