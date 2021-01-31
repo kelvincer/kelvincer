@@ -5,7 +5,7 @@
 
 Actually I am Android Developer in Peru working at a bank.
 
-📫 How to reach me: [Linkedin](www.linkedin.com/in/kelvin-lionnel-cervan-ruiz-3559b855)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kelvin-lionnel-cervan-ruiz-3559b855)
 
 <!-- Here are some ideas to get you started:
 
