@@ -12,6 +12,7 @@ Currently I am looking for jobs where C or C++ is the main language to use.
 - <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" width="120" height="40"/>
 - <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" width="120" height="40"/>
 - <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="120" height="40" />
+- <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" width="120" height="40" />
 
 📫 **How to reach me:** [![forthebadge cc-sa](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/kelvin-lionnel-cervan-ruiz-3559b855)
 
